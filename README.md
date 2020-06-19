@@ -9,7 +9,7 @@ Software used: Python 3.7.7, sqlalchemy 1.3.17, Jupyter Notebook 6.0.3, pandas 1
 
 ## Analysis:
 The analysis was done on the weather and precipitation data, of Oahu, from year 2010 to year 2017.
-For detail check [<analysis.ipynb>](https://github.com/Muzznah/surfs_up/blob/master/challenge_analysis.ipynb)
+For detailed code check, [<analysis.ipynb>](https://github.com/Muzznah/surfs_up/blob/master/challenge_analysis.ipynb)
 ### Precipitation:
 The following table and graph, shows some key statistical measures, calculated, and plotted for the months of June and Dec.
 ![](https://github.com/Muzznah/surfs_up/blob/master/Analysis/Prcp.png)

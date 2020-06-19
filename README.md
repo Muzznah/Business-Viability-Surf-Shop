@@ -42,7 +42,11 @@ The analysis showed that the seasonal variation between Dec and June is not sign
 1.	The analysis should be conducted on other months as well, as June and Dec might not be the right months for gauging seasonal variability.
 2.	In addition to precipitation other weather parameters should be considered like wind speed and sunny days.
 3.	To the answer the additional questions:
+
   a.	Are there certain times of the year when business might be slower?
+  
   b.	or the type of customer could be different?
+  
   c.	 Will there be enough customers between seasons to sustain the business throughout the year?
-An analysis should be conducted on the tourists visiting in Dec as compared to June. For between the season’s customers would be local so checking if enough business comes from the local clientele. What competitors exist in the market and how are they performing.
+  
+An analysis should be conducted on the number of tourists visiting in Dec as compared to June. For between the season’s customers would be local so checking if enough business comes from the local clientele. What competitors exist in the market and how are they performing.

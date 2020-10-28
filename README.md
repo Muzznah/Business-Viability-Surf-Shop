@@ -11,7 +11,7 @@ This analysis was conducted to determine the impact of weather and precipitation
 
 ## Analysis:
 The analysis was done on the weather and precipitation data, of Oahu, from year 2010 to year 2017.
-For detailed code check, <[analysis.ipynb](https://github.com/Muzznah/surfs_up/blob/master/challenge_analysis.ipynb)>
+For detailed code check <[analysis.ipynb](https://github.com/Muzznah/surfs_up/blob/master/challenge_analysis.ipynb)>
 ### Precipitation:
 The following table and graph, shows some key statistical measures, calculated, and plotted for the months of June and Dec.
 ![](https://github.com/Muzznah/surfs_up/blob/master/Analysis/Prcp.png)

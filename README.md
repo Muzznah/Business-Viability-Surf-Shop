@@ -3,9 +3,11 @@
 This analysis was conducted to determine the impact of weather and precipitation on, a surf and ice cream shop, being opened in Ohau. The key questions that need to be answered are could the weather and season, affect the surf and ice cream shop business. Specifically, are there certain times of the year when business might be slower, or the type of customer could be different? Will there be enough customers between seasons to sustain the business throughout the year?
 
 ## Resources
-### Data: <[hawaii.sqlite](https://github.com/Muzznah/surfs_up/blob/master/hawaii.sqlite)>
+### Data:
+- <[hawaii.sqlite](https://github.com/Muzznah/surfs_up/blob/master/hawaii.sqlite)>
 
-### Software used: Python 3.7.7, sqlalchemy 1.3.17, Jupyter Notebook 6.0.3, pandas 1.0.3, numpy 1.18.1, matplotlib 3.1.3
+### Software used:
+- Python 3.7.7, sqlalchemy 1.3.17, Jupyter Notebook 6.0.3, pandas 1.0.3, numpy 1.18.1, matplotlib 3.1.3
 
 ## Analysis:
 The analysis was done on the weather and precipitation data, of Oahu, from year 2010 to year 2017.

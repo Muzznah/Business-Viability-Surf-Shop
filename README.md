@@ -1,4 +1,4 @@
-# Business Viability Surf-Shop
+# Business Viability Analysis Surf-Shop
 ## Background
 This analysis was conducted to determine the impact of weather and precipitation on, a surf and ice cream shop, being opened in Ohau. The key questions that need to be answered are could the weather and season, affect the surf and ice cream shop business. Specifically, are there certain times of the year when business might be slower, or the type of customer could be different? Will there be enough customers between seasons to sustain the business throughout the year?
 
